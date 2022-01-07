@@ -1,12 +1,14 @@
 ### Hi there 👋
-  <a href="https://ming.oopy.io/">
-    <h1>Ming</h1>
-  </a>
+   <h1>Ming</h1>
   <div>
     안녕하세요 신입 프론트엔드 개발자입니다.
   </div>
   <div>
-    <h3>Skills</h3>
+    <h3 style="display: inline-block;">🚀About Me</h3>
+    <a href="https://ming.oopy.io/" style="text-decoration: none; color: #000;">https://ming.oopy.io/</a>
+  </div>
+  <div>
+    <h3>✨Skills</h3>
     <div>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
