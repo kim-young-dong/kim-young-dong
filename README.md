@@ -4,7 +4,7 @@
   </div>
   <div>
     <h3 style="display: inline-block;">🚀About Me</h3>
-    <a href="https://ming.oopy.io/" style="text-decoration: none; color: #000;">https://ming.oopy.io/</a>
+
   </div>
   <div>
     <h3>✨Skills</h3>
