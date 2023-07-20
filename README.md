@@ -4,7 +4,6 @@
   </div>
   <div>
     <h3 style="display: inline-block;">🚀About Me</h3>
-    https://aboutming.notion.site/aboutming/Ming-ing-86efdc726c744025a9dcfd46df27cfd8
 
   </div>
   <div>
