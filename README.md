@@ -3,10 +3,6 @@
     안녕하세요 프론트엔드 개발자입니다.
   </div>
   <div>
-    <h3 style="display: inline-block;">🚀About Me</h3>
-   https://ming.oopy.io
-  </div>
-  <div>
     <h3>✨Skills</h3>
     <div>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
